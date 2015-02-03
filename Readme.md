@@ -1,28 +1,10 @@
-== README
+# Rails Bootstrap customizer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a really basic rails app allowing to quicly be able to customize twitter bootstrap. 
 
-Things you may want to cover:
+There are ways to customize bootstrap : 
 
-* Ruby version
+- Official website: **but** this is not easy to see what you are doing
+- Bootstrap live customizer: A lot better but there is no easy way to go back and forth between your code and the website
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+We created this app to quickly be able to see the results of bootstrap customization right from your PC. 
